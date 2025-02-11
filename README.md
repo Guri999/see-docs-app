@@ -21,7 +21,7 @@
 - Home: 디바이스의 문서 파일 목록을 보여줍니다.
 - Bookmark: 북마크된 파일들이 모여있는 목록.
 - Recent: 최근 본 파일 목록
-- PdfView: PDF 화면
+- Pdf: PDF 화면
 
 ## 프로젝트 목표
 
@@ -30,7 +30,7 @@
 ## Tech stack & Open-source libraries
 
 - Minimum SKD level 26
-- Kotlin based, 비동기 작업 Coroutines + Flow
+- Kotlin based, Coroutines + Flow
 - Jetpack Libraries:
     - Jetpack compose: Android UI toolkit
     - ViewModel: UI 관련 데이터를 관리하고 수명 주기를 인식하여 구성이 변경되어도 데이터 생존 보장
