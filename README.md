@@ -8,7 +8,7 @@
   <a href="https://github.com/guri999"><img alt="Profile" src="https://guri999.github.io/data/badge.svg"/></a>
 </p>
 
-<p align="center">  
+<p align="center">
 문서를 볼 수 있는 Android App
 </p>
 
